@@ -38,10 +38,6 @@ flutter run -d chrome
 - Dart
 - Material Design
 
-## 📸 Screenshots
-
-
-
 ## 👨‍💻 Dibuat Oleh
 
-Mohammad Yoga - [GitHub](https://github.com/mohyoga126)
+Mohammad Yoga Firnanda (221080200126) - [GitHub](https://github.com/mohyoga126)
