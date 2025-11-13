@@ -1,16 +1,47 @@
-# kuis_uiux
+# Kuis UI/UX Flutter
 
-A new Flutter project.
+Aplikasi Flutter untuk pembelajaran desain UI/UX menggunakan GridView, Card, dan ListTile.
 
-## Getting Started
+## 📱 Fitur
 
-This project is a starting point for a Flutter application.
+- **Grid Produk** - Katalog produk dengan layout grid 2 kolom
+- **Profil Mahasiswa** - Card profil dengan informasi lengkap
+- **Daftar Kontak** - List kontak dengan status real-time
+- **Dashboard** - Kombinasi multi-widget (Grid + Card + List)
 
-A few resources to get you started if this is your first Flutter project:
+## 🎨 Design Highlights
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Gradient backgrounds
+- Animasi press effect
+- Color coding untuk setiap item
+- Material Design principles
+- Shadow & elevation effects
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Cara Menjalankan
+```bash
+# Clone repository
+git clone https://github.com/mohyoga126/kuis-uiux-flutter.git
+
+# Masuk ke folder
+cd kuis-uiux-flutter
+
+# Install dependencies
+flutter pub get
+
+# Jalankan di Chrome
+flutter run -d chrome
+```
+
+## 📦 Teknologi
+
+- Flutter
+- Dart
+- Material Design
+
+## 📸 Screenshots
+
+
+
+## 👨‍💻 Dibuat Oleh
+
+Mohammad Yoga - [GitHub](https://github.com/mohyoga126)
